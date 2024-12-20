@@ -1,0 +1,100 @@
+Simulação,Status,Timeslot Total,EPRs Criados,Pares Eprs Consumidos,Fidelidade Média dos Eprs,Erro
+1,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+2,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+3,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+4,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+5,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+6,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+7,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+8,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+9,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+10,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+11,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+12,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+13,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+14,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+15,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+16,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+17,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+18,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+19,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+20,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+21,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+22,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+23,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+24,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+25,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+26,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+27,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+28,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+29,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+30,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+31,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+32,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+33,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+34,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+35,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+36,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+37,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+38,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+39,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+40,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+41,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+42,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+43,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+44,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+45,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+46,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+47,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+48,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+49,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+50,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+51,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+52,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+53,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+54,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+55,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+56,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+57,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+58,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+59,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+60,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+61,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+62,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+63,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+64,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+65,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+66,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+67,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+68,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+69,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+70,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+71,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+72,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+73,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+74,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+75,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+76,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+77,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+78,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+79,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+80,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+81,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+82,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+83,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+84,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+85,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+86,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+87,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+88,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+89,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+90,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+91,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+92,Falha,1,4,6,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+93,Sucesso,2,4,6,"{""media"": 0.8856734002056182}",Nenhum
+94,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+95,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+96,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+97,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+98,Falha,0,4,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+99,Falha,0,4,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.

@@ -1,0 +1,11 @@
+Simulação,Status,Timeslot Total,EPRs Criados,Pares Eprs Consumidos,Fidelidade Média dos Eprs
+1,Falha,0,0,4,"{""media"": 0.8448275862068965}"
+2,Falha,0,0,4,"{""media"": 0.8448275862068965}"
+3,Falha,0,0,2,"{""symmetric"": 0.0, ""pumping"": 0.0}"
+4,Falha,0,0,6,"{""media"": 0.7352941176470588}"
+5,Falha,0,0,2,"{""symmetric"": 0.0, ""pumping"": 0.0}"
+6,Falha,0,118,2,"{""symmetric"": 0.0, ""pumping"": 0.0}"
+7,Sucesso,1,0,2,"{""media"": 0.8448275862068965}"
+8,Sucesso,2,0,6,"{""media"": 0.8856734002056182}"
+9,Sucesso,2,0,6,"{""media"": 0.8856734002056182}"
+10,Falha,0,54,16,"{""media"": 0.7352941176470588}"

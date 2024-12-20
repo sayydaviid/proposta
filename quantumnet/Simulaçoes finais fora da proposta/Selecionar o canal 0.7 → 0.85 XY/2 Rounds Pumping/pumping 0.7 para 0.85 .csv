@@ -1,0 +1,113 @@
+Simulação,Status,Timeslot Total,EPRs Criados,Pares Eprs Consumidos,Fidelidade Média dos Eprs,Erro
+1,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+2,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+3,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+4,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+5,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+6,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+7,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+8,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+9,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+10,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+11,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+12,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+13,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+14,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+15,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+16,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+17,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+18,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+19,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+20,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+21,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+22,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+23,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+24,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+25,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+26,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+27,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+28,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+29,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+30,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+31,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+32,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+33,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+34,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+35,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+36,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+37,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+38,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+39,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+40,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+41,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+42,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+43,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+44,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+45,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+46,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+47,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+48,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+49,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+50,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+51,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+52,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+53,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+54,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+55,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+56,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+57,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+58,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+59,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+60,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+61,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+62,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+63,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+64,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+65,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+66,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+67,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+68,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+69,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+70,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+71,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+72,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+73,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+74,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+75,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+76,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+77,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+78,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+79,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+80,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+81,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+82,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+83,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+84,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+85,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+86,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+87,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+88,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+89,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+90,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+91,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+92,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+93,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+94,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+95,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+96,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+97,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+98,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+99,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+100,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+101,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+102,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+103,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+104,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+105,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+106,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+107,Falha,1,3,4,"{""media"": 0.8448275862068965}",Erro de probabilidade de sucesso.
+108,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+109,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+110,Sucesso,2,3,4,"{""media"": 0.8859273066169617}",Nenhum
+111,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.
+112,Falha,0,2,2,"{""symmetric"": 0.0, ""pumping"": 0.0}",Erro de probabilidade de sucesso.

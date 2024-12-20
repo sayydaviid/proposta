@@ -1,0 +1,5 @@
+Simulação,Status,Timeslot Total,EPRs Criados,Pares Eprs Consumidos,Fidelidade Média dos Eprs
+1,Sucesso,2,0,4,"{""media"": 0.8859273066169617}"
+2,Falha,1,0,4,"{""media"": 0.8448275862068965}"
+3,Sucesso,2,0,4,"{""media"": 0.8859273066169617}"
+4,Sucesso,2,0,4,"{""media"": 0.8859273066169617}"
