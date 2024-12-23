@@ -1,8 +1,10 @@
-# script.py
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+
 from quantumnet.components import Network, Host
 from quantumnet.objects import Qubit, Logger
 import json
-import sys
 import random
 
 # Captura o número de rounds a partir dos argumentos (opcional)
@@ -55,7 +57,7 @@ if canal_tipo not in ['XZ']:
     sys.exit(1)  # Continua a execução das próximas simulações sem interrupção
 
 # Gera uma request de fidelidade alvo aleatória
-request = 0.85 #random.uniform(0.75, 0.96)
+request = 0.75 #random.uniform(0.75, 0.96)
 
 if request > 1.4 * initial_fidelity:
     
@@ -72,8 +74,8 @@ if request > 1.4 * initial_fidelity:
 
 
 # Estima o número de rounds necessários para atingir a fidelidade alvo
-rounds_estimation = rede.linklayer.round_estimates(alice.host_id, bob.host_id, request, "symmetric")
-required_rounds = rounds_estimation.get("symmetric", {}).get("rounds", rounds)
+rounds_estimation = rede.linklayer.round_estimates(alice.host_id, bob.host_id, request, "pumping")
+required_rounds = rounds_estimation.get("pumping", {}).get("rounds", rounds)
 
 Logger.get_instance().log(f"Fidelidade inicial: {initial_fidelity}")
 Logger.get_instance().log(f"Request de fidelidade alvo: {request}")
@@ -81,7 +83,7 @@ Logger.get_instance().log(f"Tipo de canal: {canal_tipo}")
 Logger.get_instance().log(f"Estimativa de rounds necessários: {required_rounds}")
 
 # Executa o agendamento de purificação com os rounds estimados
-success = rede.linklayer.purification_scheduling(alice.host_id, bob.host_id, 'symmetric', required_rounds)
+success = rede.linklayer.purification_scheduling(alice.host_id, bob.host_id, 'pumping', required_rounds)
 
 # Obtém a fidelidade final após o agendamento
 final_epr_pairs = rede.get_eprs_from_edge(alice.host_id, bob.host_id)
